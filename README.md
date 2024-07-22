@@ -36,6 +36,6 @@ git clone git@github.com:Sudharshan1409/wezterm-config.git ~/.config/wezterm
 
 ## Starting WezTerm
 
-Create a wallpaper directory in your home directory with name wezterm-wallpapers and copy the wallpapers to the directory.
+Create a wallpaper directory in your home directory with name `wezterm-wallpapers` and copy the wallpapers to the directory.
 
 After copying the configuration files, you can start WezTerm with your custom configuration, feel free to modify the configuration to suit your needs.
